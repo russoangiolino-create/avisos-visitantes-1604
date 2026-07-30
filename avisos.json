@@ -1,6 +1,6 @@
  {
   "mostrar": true,
-  "bloquear": true,
+  "bloquear": true, 
   "titulo": "Mantenimiento programado",
   "mensaje": ".",
   "tipo": "info",
