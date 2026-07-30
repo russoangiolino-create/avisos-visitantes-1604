@@ -1,5 +1,5 @@
  {
-  "mostrar": true,
+  "mostrar": false,
   "bloquear": true,
   "titulo": "Mantenimiento programado",
   "mensaje": "El sistema estará en mantenimiento el viernes a las 3:00 PM.",
